@@ -1,6 +1,5 @@
-package com.example.repository;
+package com.example.config.repository;
 
-import com.example.db.DatabaseConnection;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;
